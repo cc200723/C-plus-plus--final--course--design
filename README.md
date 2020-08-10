@@ -1,7 +1,7 @@
 # C-plus-plus--final--course--design
 Hotel Guest Room Management System Based on C++ Language
 
-这是我在校学习期间为《面向对象的程序设计课程设计》这门课而准备的内容，文档+源代码，综合评分90+（满分100）。
+这是我在校学习期间为《面向对象的程序设计课程设计》这门课的考核而准备的内容，文档+源代码，综合评分90+（满分100）。
 
 欢迎大家参考，同时将题目附上：
 
